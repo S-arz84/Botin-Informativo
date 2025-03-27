@@ -1,0 +1,54 @@
+body {
+    background-color: #F9FAFB;
+}
+img {
+    margin: 30px 0px 0px 48%;
+}
+h1 {
+    text-align: center;
+    font-size: 48px;
+    font-family: "Poppins", sans-serif;
+}
+p {
+    text-align: center;
+    color: #6C727F;
+    font-family: "Poppins", sans-serif;
+}
+.usuario {
+    text-align: center;
+    margin: 30px 25% 0px 25%;
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.03), 0px 8px 12px 0px rgba(0, 0, 0, 0.08);
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.email {
+    text-align: center;
+    border: 1px solid #ccc;
+    background-color: #F9FAFB;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+input[type="email"]::placeholder {
+    color: black;
+}
+.Sub {
+    background-color: #284BCE;
+    padding: 15px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    border: 1px solid #284BCE;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+.help-text {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #394150;
+}
