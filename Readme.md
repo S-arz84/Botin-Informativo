@@ -33,7 +33,7 @@
 
 ## Overview
 
-![screenshot](Pagina_FAQ-devChallenges.png)
+![screenshot](Proyecto.png)
 
 <p>Este proyecto es sobre una seria de preguntas seguidas de su respuesta sobre la politica de devolucion y como pueden recoger su orden</p>
 
